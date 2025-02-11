@@ -21,7 +21,7 @@ body {
 }
 
 .header_text, .text {
-    font-family: 'Brush Script MT';
+    font-family: Brush Script MT;
     font-size: 50px;
     font-weight: bold;
     color: white;
@@ -41,7 +41,7 @@ body {
 }
 
 .btn {
-    background-color: #80c3d8;
+    background-color: #e6ccff;
     color: white;
     padding: 15px 32px;
     text-align: center;
@@ -55,7 +55,7 @@ body {
 }
 
 .btn:hover {
-    background-color: #FAF9F6;
+    background-color: #e6ccff;
 }
 
 .gif_container {
